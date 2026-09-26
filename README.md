@@ -110,6 +110,7 @@ void loop() {
 To upload
 ---
 <img width="578" height="1280" alt="image" src="https://github.com/user-attachments/assets/3dbc9e1b-18fe-456f-9912-c78b534abeac" />
+<img width="731" height="1600" alt="WhatsApp Image 2026-09-26 at 10 38 06 AM" src="https://github.com/user-attachments/assets/f54f740a-72a3-40b2-8255-e1965b96d298" />
 
 
 # Observation
